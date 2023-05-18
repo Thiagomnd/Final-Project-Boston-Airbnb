@@ -19,4 +19,4 @@ During the analysis, 2 more datasets were added, which are updates of the "listi
 5 - listings_43properties.xlsx: list updated after “data cleaning” with the 43 most profitable Airbnb properties in the period between 03/19/2010 and 03/28/2016 with 96 variables (columns) and 43 records (rows).
 
 ## Follow the link with the complete project:
-[Complete Project](https://bit.ly/projetoAirbnbBoston)
+[Complete Project](https://bit.ly/final-project-boston-airbnb)
